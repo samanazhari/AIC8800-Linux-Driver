@@ -1,5 +1,5 @@
 # AIC8800 Linux Driver
-
+Saya coba untuk Ubuntu Linux
 AIC8800 WiFi 驱动程序,适用于 Arch Linux 平台。
 
 ## 概述
